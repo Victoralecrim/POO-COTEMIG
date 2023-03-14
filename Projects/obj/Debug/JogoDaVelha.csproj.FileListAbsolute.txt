@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+H:\Visual Studio 2022\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
