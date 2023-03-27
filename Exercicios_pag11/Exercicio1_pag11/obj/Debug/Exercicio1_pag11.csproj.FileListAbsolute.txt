@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\bin\Debug\Exercicio1_pag11.exe.config
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\bin\Debug\Exercicio1_pag11.exe
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\bin\Debug\Exercicio1_pag11.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.Form1.resources
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.Properties.Resources.resources
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.exe
+C:\Users\victo\OneDrive\Área de Trabalho\POO - COTEMIG\Projects\Exercicios_pag11\Exercicio1_pag11\obj\Debug\Exercicio1_pag11.pdb
